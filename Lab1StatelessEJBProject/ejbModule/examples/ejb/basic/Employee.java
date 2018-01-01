@@ -13,6 +13,7 @@ public class Employee implements EmployeeRemote, EmployeeLocal {
     /**
      * Default constructor. 
      */
+    //New comment not in branch
     public Employee() {
         // TODO Auto-generated constructor stub
     }
